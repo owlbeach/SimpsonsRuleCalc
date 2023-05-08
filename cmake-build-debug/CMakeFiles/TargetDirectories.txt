@@ -1,0 +1,3 @@
+C:/Users/Gorilla Rig/Documents/GitHub/SimpsonsRuleCalc/cmake-build-debug/CMakeFiles/SimpsonsRuleCalc.dir
+C:/Users/Gorilla Rig/Documents/GitHub/SimpsonsRuleCalc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gorilla Rig/Documents/GitHub/SimpsonsRuleCalc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
